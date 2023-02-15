@@ -16,6 +16,8 @@ Project Title
     Sepal width in centimeters
     Petal length in centimeters
     Petal width in centimeters
+    
+    The data used in this project was obtained from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Iris). It contains information about       150 individuals, with 50 samples from each of three different species of iris (setosa, versicolor, and virginica).
   
 **Methodology**
 
