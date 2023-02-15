@@ -42,12 +42,15 @@
     This information can be used to make predictions about new data and to identify patterns and trends in other datasets.
   
 **Discussion**
+
     The results of this analysis provide valuable information about the relationships between the different attributes of the iris dataset. This information can be         used  to make predictions about new data and to gain a better understanding of the relationships between different variables.
 
-Contact
+**Contact**
+
 For questions or comments about this project, please contact [www.linkedin.com/in/sheetal-dhande-dandge].
 
-License
+**License**
+
 This project is licensed under the [No license]. it is just for guidance and help to new data science students and undergraduates.
 
 
