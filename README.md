@@ -1,4 +1,4 @@
-# EducationalSampleProjects
+# **Irish Dataset Analysis**
 **Project Title :**   **Irish Dataset Analysis**
 
 **Project Description**
