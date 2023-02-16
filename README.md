@@ -1,5 +1,5 @@
-# **Irish Dataset Analysis**
-**Project Title :**   **Irish Dataset Analysis**
+# **Iris Dataset Analysis**
+**Project Title :**   **Iris Dataset Analysis**
 
 **Project Description**
 
